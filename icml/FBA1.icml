@@ -9385,11 +9385,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
@@ -10106,11 +10106,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.phrack.org" Name="link" DestinationURL="http://www.phrack.org" DestinationUniqueKey="1" />
