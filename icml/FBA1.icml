@@ -108,9 +108,6 @@
     <Content>Ippolita</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
@@ -120,9 +117,6 @@
     <Content> Patrice Riemens</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
@@ -130,9 +124,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Matt Beros</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -143,16 +134,10 @@
     <Content> Katja van Stiphout</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>EPUB Development:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -161,9 +146,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Print on Demand</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -175,24 +157,15 @@
     <Content> Institute of Network Cultures, Amsterdam, 2015</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>ISBN:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Revised and Updated English Edition, May 2015</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> First published in Italian as </Content>
@@ -202,9 +175,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Ledizioni, 2012.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Published in French as </Content>
@@ -221,9 +191,6 @@
     <Content>English version originally published as a feuilleton on Nettime, 2014.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Supported by the Antenna Foundation, Nijmegen (http://www.antenna.nl) and Casa Nostra, Vogogna-Ossola, Italy.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -237,25 +204,13 @@
     <Content>Institute of Network Cultures</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Phone: +3120 5951863</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Fax: +3120 5951840</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Email: info@networkcultures.org</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Web: </Content>
@@ -267,9 +222,6 @@
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -277,13 +229,7 @@
     <Content>This publication is available through various print on demand services.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;/br&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> For more information, and a freely downloadable pdf:</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -307,18 +253,12 @@
     <Content>I started building an aquarium. It became larger and larger, until I managed to build a saltwater aquarium. Then I stopped and thought, 'either I walk out, or I go into the aquarium myself'.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Malcolm</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>'Hit a straight lick with a crooked stick'</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Jamaican proverb</Content>
@@ -2493,9 +2433,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Everyone wants powerful friends. But they want friends more powerful than themselves.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;/br&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Elias Canetti, </Content>
@@ -5507,9 +5444,6 @@
     <Content>Any sufficiently advanced technology is indistinguishable from magic.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;br/&gt;</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Arthur C. Clark</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -7438,9 +7372,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Translated (Q&amp;D) by Patrice Riemens. This translation project is supported and facilitated by: .</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&lt;/br&gt;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> The Institute of Network Cultures, Amsterdam University of Applied Sciences (</Content>
@@ -9454,11 +9385,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
@@ -10175,11 +10106,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.phrack.org" Name="link" DestinationURL="http://www.phrack.org" DestinationUniqueKey="1" />
