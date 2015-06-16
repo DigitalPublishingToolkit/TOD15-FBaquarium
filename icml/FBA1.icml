@@ -91,7 +91,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Theory on Demand #16</Content>
+    <Content>Theory on Demand #15</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
@@ -105,7 +105,7 @@
     <Content>Author:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ippolita</Content>
+    <Content> Ippolita</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
@@ -120,10 +120,16 @@
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Editorial Support:</Content>
+    <Content>Copy-editing:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Matt Beros</Content>
+    <Content> Matt Beros </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Editorial support:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Miriam Rasch</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -137,7 +143,10 @@
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>EPUB Development:</Content>
+    <Content>EPUB development:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Gottfried Haider</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -161,11 +170,14 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>ISBN:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 978-94-92302-00-7</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Revised and Updated English Edition, May 2015</Content>
+    <Content>Revised and updated English edition, June 2015</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> First published in Italian as </Content>
@@ -204,10 +216,7 @@
     <Content>Institute of Network Cultures</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Phone: +3120 5951863</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Fax: +3120 5951840</Content>
+    <Content> Phone: +3120 5951865</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Email: info@networkcultures.org</Content>
@@ -219,33 +228,27 @@
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.networkcultures.org</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. </Content>
-  </CharacterStyleRange><Br />
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This publication is available through various print on demand services.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> For more information, and a freely downloadable pdf:</Content>
+    <Content> For more information, and a freely downloadable PDF:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://networkcultures.org/theoryondemand</Content>
+      <Content>http://networkcultures.org/publications</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange><Br />
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This publication is licensed under the Creative Commons Attribution Noncommercial No Derivative Works 3.0 Netherlands License.</Content>
+    <Content>This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -258,7 +261,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'Hit a straight lick with a crooked stick'</Content>
+    <Content>Hit a straight lick with a crooked stick</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Jamaican proverb</Content>
@@ -9245,1278 +9248,1278 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.economist.com/node/16481504" Name="link" DestinationURL="http://www.economist.com/node/16481504" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.economist.com/node/16481504" Name="link" DestinationURL="http://www.economist.com/node/16481504" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-182" Name="http://www.economist.com/node/16481504" Source="htss-182" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.economist.com/node/16481504</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.economist.com/node/16481504</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Name="link" DestinationURL="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Name="link" DestinationURL="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-181" Name="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Source="htss-181" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Name="link" DestinationURL="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Name="link" DestinationURL="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-180" Name="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Source="htss-180" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://docs.piratpartiet.se/Principles%203.2.pdf" Name="link" DestinationURL="http://docs.piratpartiet.se/Principles%203.2.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//docs.piratpartiet.se/Principles%203.2.pdf" Name="link" DestinationURL="http://docs.piratpartiet.se/Principles%203.2.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-179" Name="http://docs.piratpartiet.se/Principles%203.2.pdf" Source="htss-179" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://docs.piratpartiet.se/Principles%203.2.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//docs.piratpartiet.se/Principles%203.2.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20" Name="link" DestinationURL="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20" Name="link" DestinationURL="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-178" Name="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20" Source="htss-178" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr3261/text" Name="link" DestinationURL="https://www.govtrack.us/congress/bills/112/hr3261/text" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.govtrack.us/congress/bills/112/hr3261/text" Name="link" DestinationURL="https://www.govtrack.us/congress/bills/112/hr3261/text" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-177" Name="https://www.govtrack.us/congress/bills/112/hr3261/text" Source="htss-177" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr3261/text</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.govtrack.us/congress/bills/112/hr3261/text</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Name="link" DestinationURL="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Name="link" DestinationURL="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-176" Name="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Source="htss-176" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Name="link" DestinationURL="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Name="link" DestinationURL="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-175" Name="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Source="htss-175" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Name="link" DestinationURL="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Name="link" DestinationURL="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-174" Name="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Source="htss-174" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Name="link" DestinationURL="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Name="link" DestinationURL="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-173" Name="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Source="htss-173" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hoover.org/research/optimistic-thought-experiment" Name="link" DestinationURL="http://www.hoover.org/research/optimistic-thought-experiment" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.hoover.org/research/optimistic-thought-experiment" Name="link" DestinationURL="http://www.hoover.org/research/optimistic-thought-experiment" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-172" Name="http://www.hoover.org/research/optimistic-thought-experiment" Source="htss-172" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.hoover.org/research/optimistic-thought-experiment</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.hoover.org/research/optimistic-thought-experiment</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nationalreview.com/article/278758/end-future-peter-thiel" Name="link" DestinationURL="http://www.nationalreview.com/article/278758/end-future-peter-thiel" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nationalreview.com/article/278758/end-future-peter-thiel" Name="link" DestinationURL="http://www.nationalreview.com/article/278758/end-future-peter-thiel" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-171" Name="http://www.nationalreview.com/article/278758/end-future-peter-thiel" Source="htss-171" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nationalreview.com/article/278758/end-future-peter-thiel</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nationalreview.com/article/278758/end-future-peter-thiel</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Name="link" DestinationURL="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Name="link" DestinationURL="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-170" Name="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Source="htss-170" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ctheory.net/articles.aspx?id=672" Name="link" DestinationURL="http://www.ctheory.net/articles.aspx?id=672" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ctheory.net/articles.aspx?id=672" Name="link" DestinationURL="http://www.ctheory.net/articles.aspx?id=672" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-169" Name="http://www.ctheory.net/articles.aspx?id=672" Source="htss-169" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ctheory.net/articles.aspx?id=672</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ctheory.net/articles.aspx?id=672</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html" Name="link" DestinationURL="http://www.mit.edu/hacker/hacker.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.mit.edu/hacker/hacker.html" Name="link" DestinationURL="http://www.mit.edu/hacker/hacker.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-168" Name="http://www.mit.edu/hacker/hacker.html" Source="htss-168" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.mit.edu/hacker/hacker.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Name="link" DestinationURL="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Name="link" DestinationURL="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-167" Name="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Source="htss-167" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.facebook.com/help/search/?query=real%20names" Name="link" DestinationURL="https://www.facebook.com/help/search/?query=real%20names" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.facebook.com/help/search/?query=real%20names" Name="link" DestinationURL="https://www.facebook.com/help/search/?query=real%20names" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-166" Name="https://www.facebook.com/help/search/?query=real%20names" Source="htss-166" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.facebook.com/help/search/?query=real%20names</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.facebook.com/help/search/?query=real%20names</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/rothbard/praxeology.pdf" Name="link" DestinationURL="https://mises.org/rothbard/praxeology.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//mises.org/rothbard/praxeology.pdf" Name="link" DestinationURL="https://mises.org/rothbard/praxeology.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-165" Name="https://mises.org/rothbard/praxeology.pdf" Source="htss-165" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://mises.org/rothbard/praxeology.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//mises.org/rothbard/praxeology.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cryptome.org/hacker-idea.htm" Name="link" DestinationURL="http://cryptome.org/hacker-idea.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//cryptome.org/hacker-idea.htm" Name="link" DestinationURL="http://cryptome.org/hacker-idea.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-164" Name="http://cryptome.org/hacker-idea.htm" Source="htss-164" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://cryptome.org/hacker-idea.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//cryptome.org/hacker-idea.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading" Name="link" DestinationURL="http://www.catb.org/esr/writings/homesteading/homesteading" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.catb.org/esr/writings/homesteading/homesteading" Name="link" DestinationURL="http://www.catb.org/esr/writings/homesteading/homesteading" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-163" Name="http://www.catb.org/esr/writings/homesteading/homesteading" Source="htss-163" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.catb.org/esr/writings/homesteading/homesteading</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//web.archive.org/web/20130827121341/http%3a//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-162" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-162" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//web.archive.org/web/20130827121341/http%3a//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-161" Name="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Source="htss-161" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Name="link" DestinationURL="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Name="link" DestinationURL="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-160" Name="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Source="htss-160" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" Name="link" DestinationURL="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theregister.co.uk/2010/03/10/cryptome_paypal/" Name="link" DestinationURL="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-159" Name="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" Source="htss-159" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theregister.co.uk/2010/03/10/cryptome_paypal/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theregister.co.uk/2010/03/10/cryptome_paypal/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://archive.lewrockwell.com/rothbard/rothbard103.html" Name="link" DestinationURL="http://archive.lewrockwell.com/rothbard/rothbard103.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//archive.lewrockwell.com/rothbard/rothbard103.html" Name="link" DestinationURL="http://archive.lewrockwell.com/rothbard/rothbard103.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-158" Name="http://archive.lewrockwell.com/rothbard/rothbard103.html" Source="htss-158" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://archive.lewrockwell.com/rothbard/rothbard103.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//archive.lewrockwell.com/rothbard/rothbard103.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fortune.com/2007/11/13/paypal-mafia/" Name="link" DestinationURL="http://fortune.com/2007/11/13/paypal-mafia/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//fortune.com/2007/11/13/paypal-mafia/" Name="link" DestinationURL="http://fortune.com/2007/11/13/paypal-mafia/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-157" Name="http://fortune.com/2007/11/13/paypal-mafia/" Source="htss-157" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://fortune.com/2007/11/13/paypal-mafia/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//fortune.com/2007/11/13/paypal-mafia/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Name="link" DestinationURL="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Name="link" DestinationURL="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-156" Name="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Source="htss-156" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Name="link" DestinationURL="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Name="link" DestinationURL="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-155" Name="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Source="htss-155" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Name="link" DestinationURL="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Name="link" DestinationURL="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-154" Name="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Source="htss-154" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Name="link" DestinationURL="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Name="link" DestinationURL="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-153" Name="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Source="htss-153" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Name="link" DestinationURL="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Name="link" DestinationURL="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-152" Name="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Source="htss-152" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mattmckeon.com/facebook-privacy/" Name="link" DestinationURL="http://mattmckeon.com/facebook-privacy/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//mattmckeon.com/facebook-privacy/" Name="link" DestinationURL="http://mattmckeon.com/facebook-privacy/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-151" Name="http://mattmckeon.com/facebook-privacy/" Source="htss-151" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://mattmckeon.com/facebook-privacy/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//mattmckeon.com/facebook-privacy/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.liberazioni.org/articoli/MauriziM-06.htm" Name="link" DestinationURL="http://www.liberazioni.org/articoli/MauriziM-06.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.liberazioni.org/articoli/MauriziM-06.htm" Name="link" DestinationURL="http://www.liberazioni.org/articoli/MauriziM-06.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-150" Name="http://www.liberazioni.org/articoli/MauriziM-06.htm" Source="htss-150" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.liberazioni.org/articoli/MauriziM-06.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.liberazioni.org/articoli/MauriziM-06.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bmartin.cc/pubs/05Restivo.html" Name="link" DestinationURL="http://www.bmartin.cc/pubs/05Restivo.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bmartin.cc/pubs/05Restivo.html" Name="link" DestinationURL="http://www.bmartin.cc/pubs/05Restivo.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-149" Name="http://www.bmartin.cc/pubs/05Restivo.html" Source="htss-149" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.bmartin.cc/pubs/05Restivo.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.bmartin.cc/pubs/05Restivo.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fastcompany.com/1784824/great-tech-war-2012" Name="link" DestinationURL="http://www.fastcompany.com/1784824/great-tech-war-2012" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.fastcompany.com/1784824/great-tech-war-2012" Name="link" DestinationURL="http://www.fastcompany.com/1784824/great-tech-war-2012" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-148" Name="http://www.fastcompany.com/1784824/great-tech-war-2012" Source="htss-148" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.fastcompany.com/1784824/great-tech-war-2012</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.fastcompany.com/1784824/great-tech-war-2012</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-147" Name="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Source="htss-147" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-146" Name="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Source="htss-146" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Name="link" DestinationURL="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Name="link" DestinationURL="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-145" Name="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Source="htss-145" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Name="link" DestinationURL="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Name="link" DestinationURL="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-144" Name="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Source="htss-144" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Name="link" DestinationURL="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Name="link" DestinationURL="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-143" Name="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Source="htss-143" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Name="link" DestinationURL="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Name="link" DestinationURL="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-142" Name="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Source="htss-142" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Name="link" DestinationURL="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Name="link" DestinationURL="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-141" Name="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Source="htss-141" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Name="link" DestinationURL="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Name="link" DestinationURL="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-140" Name="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Source="htss-140" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Name="link" DestinationURL="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Name="link" DestinationURL="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-139" Name="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Source="htss-139" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-138" Name="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Source="htss-138" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/technology/2008/jan/14/facebook" Name="link" DestinationURL="http://www.theguardian.com/technology/2008/jan/14/facebook" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theguardian.com/technology/2008/jan/14/facebook" Name="link" DestinationURL="http://www.theguardian.com/technology/2008/jan/14/facebook" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-137" Name="http://www.theguardian.com/technology/2008/jan/14/facebook" Source="htss-137" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/technology/2008/jan/14/facebook</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theguardian.com/technology/2008/jan/14/facebook</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Name="link" DestinationURL="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Name="link" DestinationURL="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-136" Name="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Source="htss-136" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Name="link" DestinationURL="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Name="link" DestinationURL="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-135" Name="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Source="htss-135" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Name="link" DestinationURL="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Name="link" DestinationURL="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-134" Name="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Source="htss-134" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-133" Name="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Source="htss-133" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.secrecyfilm.com/about.html" Name="link" DestinationURL="http://www.secrecyfilm.com/about.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.secrecyfilm.com/about.html" Name="link" DestinationURL="http://www.secrecyfilm.com/about.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-132" Name="http://www.secrecyfilm.com/about.html" Source="htss-132" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.secrecyfilm.com/about.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.secrecyfilm.com/about.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Name="link" DestinationURL="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Name="link" DestinationURL="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-131" Name="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Source="htss-131" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://edge.org/3rd_culture/foreman05/foreman05_index.html" Name="link" DestinationURL="http://edge.org/3rd_culture/foreman05/foreman05_index.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//edge.org/3rd_culture/foreman05/foreman05_index.html" Name="link" DestinationURL="http://edge.org/3rd_culture/foreman05/foreman05_index.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-130" Name="http://edge.org/3rd_culture/foreman05/foreman05_index.html" Source="htss-130" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://edge.org/3rd_culture/foreman05/foreman05_index.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//edge.org/3rd_culture/foreman05/foreman05_index.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://panopticlick.eff.org/browser-uniqueness.pdf" Name="link" DestinationURL="https://panopticlick.eff.org/browser-uniqueness.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//panopticlick.eff.org/browser-uniqueness.pdf" Name="link" DestinationURL="https://panopticlick.eff.org/browser-uniqueness.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-129" Name="https://panopticlick.eff.org/browser-uniqueness.pdf" Source="htss-129" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://panopticlick.eff.org/browser-uniqueness.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//panopticlick.eff.org/browser-uniqueness.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Name="link" DestinationURL="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Name="link" DestinationURL="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-128" Name="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Source="htss-128" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Name="link" DestinationURL="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Name="link" DestinationURL="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-127" Name="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Source="htss-127" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theguardian.com/media/2010/dec/17/julian-assange-sweden</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Name="link" DestinationURL="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Name="link" DestinationURL="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-126" Name="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Source="htss-126" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Name="link" DestinationURL="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Name="link" DestinationURL="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-125" Name="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Source="htss-125" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//rixc.lv/reader/txt/txt.php?id=149&amp;l=en</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.geekwire.com/2011/zyngas-culture-rotten-core/" Name="link" DestinationURL="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.geekwire.com/2011/zyngas-culture-rotten-core/" Name="link" DestinationURL="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-124" Name="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" Source="htss-124" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.geekwire.com/2011/zyngas-culture-rotten-core/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.geekwire.com/2011/zyngas-culture-rotten-core/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Name="link" DestinationURL="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Name="link" DestinationURL="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-123" Name="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Source="htss-123" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Name="link" DestinationURL="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Name="link" DestinationURL="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-122" Name="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Source="htss-122" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-121" Name="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Source="htss-121" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Name="link" DestinationURL="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Name="link" DestinationURL="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-120" Name="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Source="htss-120" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Name="link" DestinationURL="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Name="link" DestinationURL="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-119" Name="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Source="htss-119" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ncbi.nlm.nih.gov/pubmed/19121124" Name="link" DestinationURL="http://www.ncbi.nlm.nih.gov/pubmed/19121124" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ncbi.nlm.nih.gov/pubmed/19121124" Name="link" DestinationURL="http://www.ncbi.nlm.nih.gov/pubmed/19121124" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-118" Name="http://www.ncbi.nlm.nih.gov/pubmed/19121124" Source="htss-118" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ncbi.nlm.nih.gov/pubmed/19121124</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ncbi.nlm.nih.gov/pubmed/19121124</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://phrack.org/issues/65/13.html" Name="link" DestinationURL="http://phrack.org/issues/65/13.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//phrack.org/issues/65/13.html" Name="link" DestinationURL="http://phrack.org/issues/65/13.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-117" Name="http://phrack.org/issues/65/13.html" Source="htss-117" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://phrack.org/issues/65/13.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//phrack.org/issues/65/13.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Name="link" DestinationURL="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Name="link" DestinationURL="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-116" Name="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Source="htss-116" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Name="link" DestinationURL="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Name="link" DestinationURL="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-115" Name="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Source="htss-115" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.antenna.nl" Name="link" DestinationURL="http://www.antenna.nl" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.antenna.nl" Name="link" DestinationURL="http://www.antenna.nl" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-114" Name="http://www.antenna.nl" Source="htss-114" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.antenna.nl</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.antenna.nl</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-113" Name="http://networkcultures.org/wpmu/portal/" Source="htss-113" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Name="link" DestinationURL="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Name="link" DestinationURL="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-112" Name="http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf" Source="htss-112" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ippolita.net/sites/default/files/Scritture_conviviali-Carlo_Milani-2008.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Name="link" DestinationURL="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Name="link" DestinationURL="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-111" Name="http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf" Source="htss-111" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.uvm.edu/~pdodds/files/papers/others/1993/dunbar1993a.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ncbi.nlm.nih.gov/pubmed/19121124" Name="link" DestinationURL="http://www.ncbi.nlm.nih.gov/pubmed/19121124" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ncbi.nlm.nih.gov/pubmed/19121124" Name="link" DestinationURL="http://www.ncbi.nlm.nih.gov/pubmed/19121124" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-110" Name="http://www.ncbi.nlm.nih.gov/pubmed/19121124" Source="htss-110" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ncbi.nlm.nih.gov/pubmed/19121124</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ncbi.nlm.nih.gov/pubmed/19121124</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Name="link" DestinationURL="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Name="link" DestinationURL="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-109" Name="http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf" Source="htss-109" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//brain.huji.ac.il/publications/Pascual-Leone_Amedi_et%20al%20Ann%20Rev%20Neurosci%2005.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector" Name="link" DestinationURL="http://www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector" Name="link" DestinationURL="http://www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-108" Name="http://www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector" Source="htss-108" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.verdantix.com/index.cfm/papers/Products.Details/product_id/238/carbon-strategy-benchmark-it-services-sector</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html" Name="link" DestinationURL="http://www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html" Name="link" DestinationURL="http://www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-107" Name="http://www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html" Source="htss-107" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itworld.com/article/2735848/data-center/what-s-behind-iceland-s-first-major-data-center-.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.fastcompany.com/1784824/great-tech-war-2012" Name="link" DestinationURL="http://www.fastcompany.com/1784824/great-tech-war-2012" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.fastcompany.com/1784824/great-tech-war-2012" Name="link" DestinationURL="http://www.fastcompany.com/1784824/great-tech-war-2012" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-106" Name="http://www.fastcompany.com/1784824/great-tech-war-2012" Source="htss-106" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.fastcompany.com/1784824/great-tech-war-2012</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.fastcompany.com/1784824/great-tech-war-2012</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Name="link" DestinationURL="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Name="link" DestinationURL="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-105" Name="http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/" Source="htss-105" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.technologyreview.com/view/524751/the-shadowy-world-of-wikipedias-editing-bots/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-104" Name="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Source="htss-104" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bmartin.cc/pubs/05Restivo.html" Name="link" DestinationURL="http://www.bmartin.cc/pubs/05Restivo.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bmartin.cc/pubs/05Restivo.html" Name="link" DestinationURL="http://www.bmartin.cc/pubs/05Restivo.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-103" Name="http://www.bmartin.cc/pubs/05Restivo.html" Source="htss-103" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.bmartin.cc/pubs/05Restivo.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.bmartin.cc/pubs/05Restivo.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Name="link" DestinationURL="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Name="link" DestinationURL="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-102" Name="http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en" Source="htss-102" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://rixc.lv/reader/txt/txt.php?id=149&amp;l=en</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//rixc.lv/reader/txt/txt.php?id=149&amp;l=en</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Name="link" DestinationURL="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Name="link" DestinationURL="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-101" Name="http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf" Source="htss-101" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//rekveld.home.xs4all.nl/tech/Sloterdijk_RulesForTheHumanZoo.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Name="link" DestinationURL="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Name="link" DestinationURL="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-100" Name="http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto" Source="htss-100" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading" Name="link" DestinationURL="http://www.catb.org/esr/writings/homesteading/homesteading" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.catb.org/esr/writings/homesteading/homesteading" Name="link" DestinationURL="http://www.catb.org/esr/writings/homesteading/homesteading" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-99" Name="http://www.catb.org/esr/writings/homesteading/homesteading" Source="htss-99" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.catb.org/esr/writings/homesteading/homesteading</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.catb.org/esr/writings/homesteading/homesteading</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Name="link" DestinationURL="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Name="link" DestinationURL="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-98" Name="http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host" Source="htss-98" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//ncronline.org/news/pope-cites-teilhardian-vision-cosmos-living-host</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.liberazioni.org/articoli/MauriziM-06.htm" Name="link" DestinationURL="http://www.liberazioni.org/articoli/MauriziM-06.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.liberazioni.org/articoli/MauriziM-06.htm" Name="link" DestinationURL="http://www.liberazioni.org/articoli/MauriziM-06.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-97" Name="http://www.liberazioni.org/articoli/MauriziM-06.htm" Source="htss-97" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.liberazioni.org/articoli/MauriziM-06.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.liberazioni.org/articoli/MauriziM-06.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://panopticlick.eff.org/browser-uniqueness.pdf" Name="link" DestinationURL="https://panopticlick.eff.org/browser-uniqueness.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//panopticlick.eff.org/browser-uniqueness.pdf" Name="link" DestinationURL="https://panopticlick.eff.org/browser-uniqueness.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-96" Name="https://panopticlick.eff.org/browser-uniqueness.pdf" Source="htss-96" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://panopticlick.eff.org/browser-uniqueness.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//panopticlick.eff.org/browser-uniqueness.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://panopticlick.eff.org" Name="link" DestinationURL="https://panopticlick.eff.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//panopticlick.eff.org" Name="link" DestinationURL="https://panopticlick.eff.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-95" Name="https://panopticlick.eff.org" Source="htss-95" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://panopticlick.eff.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//panopticlick.eff.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.torproject.org/" Name="link" DestinationURL="https://www.torproject.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.torproject.org/" Name="link" DestinationURL="https://www.torproject.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-94" Name="https://www.torproject.org/" Source="htss-94" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.torproject.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.torproject.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.enigmail.net/home/index.php" Name="link" DestinationURL="https://www.enigmail.net/home/index.php" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.enigmail.net/home/index.php" Name="link" DestinationURL="https://www.enigmail.net/home/index.php" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-93" Name="https://www.enigmail.net/home/index.php" Source="htss-93" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.enigmail.net/home/index.php</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.enigmail.net/home/index.php</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.gnupg.org/" Name="link" DestinationURL="https://www.gnupg.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.gnupg.org/" Name="link" DestinationURL="https://www.gnupg.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-92" Name="https://www.gnupg.org/" Source="htss-92" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.gnupg.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.gnupg.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://lorea.org/" Name="link" DestinationURL="http://lorea.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//lorea.org/" Name="link" DestinationURL="http://lorea.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-91" Name="http://lorea.org/" Source="htss-91" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://lorea.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//lorea.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Name="link" DestinationURL="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Name="link" DestinationURL="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-90" Name="http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye" Source="htss-90" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.naomiklein.org/articles/2008/05/chinas-all-seeing-eye</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/" Name="link" DestinationURL="http://www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/" Name="link" DestinationURL="http://www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-89" Name="http://www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/" Source="htss-89" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.lesliensinvisibles.org/2010/05/repetitionr-com-tactical-media-meet-data-hallucination/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Name="link" DestinationURL="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Name="link" DestinationURL="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-88" Name="http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html" Source="htss-88" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.anonymous-proxies.org/2011/02/free-speech-risks-demise-of-tomaarnet.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Name="link" DestinationURL="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Name="link" DestinationURL="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-87" Name="http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html" Source="htss-87" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nytimes.com/2010/07/23/opinion/23iht-edkhouri.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://alirezarezaee1.blogspot.com/" Name="link" DestinationURL="http://alirezarezaee1.blogspot.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//alirezarezaee1.blogspot.com/" Name="link" DestinationURL="http://alirezarezaee1.blogspot.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-86" Name="http://alirezarezaee1.blogspot.com/" Source="htss-86" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://alirezarezaee1.blogspot.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//alirezarezaee1.blogspot.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://vahid-online.net" Name="link" DestinationURL="http://vahid-online.net" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//vahid-online.net" Name="link" DestinationURL="http://vahid-online.net" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-85" Name="http://vahid-online.net" Source="htss-85" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://vahid-online.net</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//vahid-online.net</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[" Name="link" DestinationURL="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[" Name="link" DestinationURL="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-84" Name="http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[" Source="htss-84" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.dailymotion.com/video/xd3jl5_al-jazeera-e-i-nuovi-media-l-interv_news%20[</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/" Name="link" DestinationURL="https://socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/" Name="link" DestinationURL="https://socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-83" Name="https://socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/" Source="htss-83" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//socialcapital.wordpress.com/2011/01/26/twitter-facebook-and-youtubes-role-in-tunisia-uprising/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Name="link" DestinationURL="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Name="link" DestinationURL="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-82" Name="http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html" Source="htss-82" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.computerworld.com/article/2471899/cybercrime-hacking/anonymous-antisec-hacks-stratfor-in-lulzxmas-operation.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.gerdab.ir/fa/pages/?cid=407" Name="link" DestinationURL="http://www.gerdab.ir/fa/pages/?cid=407" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.gerdab.ir/fa/pages/?cid=407" Name="link" DestinationURL="http://www.gerdab.ir/fa/pages/?cid=407" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-81" Name="http://www.gerdab.ir/fa/pages/?cid=407" Source="htss-81" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.gerdab.ir/fa/pages/?cid=407</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.gerdab.ir/fa/pages/?cid=407</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.facebook.com/canvas" Name="link" DestinationURL="https://www.facebook.com/canvas" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.facebook.com/canvas" Name="link" DestinationURL="https://www.facebook.com/canvas" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-80" Name="https://www.facebook.com/canvas" Source="htss-80" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.facebook.com/canvas</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.facebook.com/canvas</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-79" Name="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Source="htss-79" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youtube.com/watch?v=MlsLmDOhQ5Y" Name="link" DestinationURL="http://www.youtube.com/watch?v=MlsLmDOhQ5Y" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.youtube.com/watch?v=MlsLmDOhQ5Y" Name="link" DestinationURL="http://www.youtube.com/watch?v=MlsLmDOhQ5Y" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-78" Name="http://www.youtube.com/watch?v=MlsLmDOhQ5Y" Source="htss-78" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.youtube.com/watch?v=MlsLmDOhQ5Y</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.youtube.com/watch?v=MlsLmDOhQ5Y</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.youtube.com/watch?v=JCbKv9yiLiQ" Name="link" DestinationURL="http://www.youtube.com/watch?v=JCbKv9yiLiQ" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.youtube.com/watch?v=JCbKv9yiLiQ" Name="link" DestinationURL="http://www.youtube.com/watch?v=JCbKv9yiLiQ" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-77" Name="http://www.youtube.com/watch?v=JCbKv9yiLiQ" Source="htss-77" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.youtube.com/watch?v=JCbKv9yiLiQ</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.youtube.com/watch?v=JCbKv9yiLiQ</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Name="link" DestinationURL="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Name="link" DestinationURL="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-76" Name="http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/" Source="htss-76" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blogs.law.harvard.edu/mediaberkman/2010/12/08/radio-berkman-171/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://cryptome.org/hacker-idea.htm" Name="link" DestinationURL="http://cryptome.org/hacker-idea.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//cryptome.org/hacker-idea.htm" Name="link" DestinationURL="http://cryptome.org/hacker-idea.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-75" Name="http://cryptome.org/hacker-idea.htm" Source="htss-75" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://cryptome.org/hacker-idea.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//cryptome.org/hacker-idea.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Name="link" DestinationURL="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Name="link" DestinationURL="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-74" Name="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" Source="htss-74" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://leakdirectory.org" Name="link" DestinationURL="http://leakdirectory.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//leakdirectory.org" Name="link" DestinationURL="http://leakdirectory.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-73" Name="http://leakdirectory.org" Source="htss-73" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://leakdirectory.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//leakdirectory.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://leakdirectory.org/index.php/OpenLeaks" Name="link" DestinationURL="http://leakdirectory.org/index.php/OpenLeaks" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//leakdirectory.org/index.php/OpenLeaks" Name="link" DestinationURL="http://leakdirectory.org/index.php/OpenLeaks" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-72" Name="http://leakdirectory.org/index.php/OpenLeaks" Source="htss-72" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://leakdirectory.org/index.php/OpenLeaks</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//leakdirectory.org/index.php/OpenLeaks</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Name="link" DestinationURL="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Name="link" DestinationURL="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-71" Name="http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/" Source="htss-71" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nybooks.com/articles/archives/2011/apr/28/private-mannings-humiliation/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Name="link" DestinationURL="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-70" Name="http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5" Source="htss-70" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/5</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Name="link" DestinationURL="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Name="link" DestinationURL="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-69" Name="http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden" Source="htss-69" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/media/2010/dec/17/julian-assange-sweden</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theguardian.com/media/2010/dec/17/julian-assange-sweden</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Name="link" DestinationURL="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-68" Name="http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html" Source="htss-68" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.eurozine.com/articles/2010-12-07-lovinkriemens-en.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Name="link" DestinationURL="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Name="link" DestinationURL="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-67" Name="http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/" Source="htss-67" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//press.piratpartiet.se/2010/08/17/swedish-pirate-party-to-host-new-wikileaks-servers/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://docs.piratpartiet.se/Principles%203.2.pdf" Name="link" DestinationURL="http://docs.piratpartiet.se/Principles%203.2.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//docs.piratpartiet.se/Principles%203.2.pdf" Name="link" DestinationURL="http://docs.piratpartiet.se/Principles%203.2.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-66" Name="http://docs.piratpartiet.se/Principles%203.2.pdf" Source="htss-66" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://docs.piratpartiet.se/Principles%203.2.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//docs.piratpartiet.se/Principles%203.2.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr3261/text" Name="link" DestinationURL="https://www.govtrack.us/congress/bills/112/hr3261/text" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.govtrack.us/congress/bills/112/hr3261/text" Name="link" DestinationURL="https://www.govtrack.us/congress/bills/112/hr3261/text" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-65" Name="https://www.govtrack.us/congress/bills/112/hr3261/text" Source="htss-65" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.govtrack.us/congress/bills/112/hr3261/text</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.govtrack.us/congress/bills/112/hr3261/text</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://piratebayitalia.com/" Name="link" DestinationURL="http://piratebayitalia.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//piratebayitalia.com/" Name="link" DestinationURL="http://piratebayitalia.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-64" Name="http://piratebayitalia.com/" Source="htss-64" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://piratebayitalia.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//piratebayitalia.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ctheory.net/articles.aspx?id=672" Name="link" DestinationURL="http://www.ctheory.net/articles.aspx?id=672" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ctheory.net/articles.aspx?id=672" Name="link" DestinationURL="http://www.ctheory.net/articles.aspx?id=672" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-63" Name="http://www.ctheory.net/articles.aspx?id=672" Source="htss-63" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ctheory.net/articles.aspx?id=672</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ctheory.net/articles.aspx?id=672</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.economist.com/node/16481504" Name="link" DestinationURL="http://www.economist.com/node/16481504" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.economist.com/node/16481504" Name="link" DestinationURL="http://www.economist.com/node/16481504" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-62" Name="http://www.economist.com/node/16481504" Source="htss-62" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.economist.com/node/16481504</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.economist.com/node/16481504</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://phrack.org/issues/65/13.html" Name="link" DestinationURL="http://phrack.org/issues/65/13.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//phrack.org/issues/65/13.html" Name="link" DestinationURL="http://phrack.org/issues/65/13.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-61" Name="http://phrack.org/issues/65/13.html" Source="htss-61" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://phrack.org/issues/65/13.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//phrack.org/issues/65/13.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html" Name="link" DestinationURL="http://www.mit.edu/hacker/hacker.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.mit.edu/hacker/hacker.html" Name="link" DestinationURL="http://www.mit.edu/hacker/hacker.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-60" Name="http://www.mit.edu/hacker/hacker.html" Source="htss-60" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.mit.edu/hacker/hacker.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.mit.edu/hacker/hacker.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//web.archive.org/web/20130827121341/http%3a//cosman246.com/jargon.html" Name="link" DestinationURL="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-59" Name="https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html" Source="htss-59" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://web.archive.org/web/20130827121341/http%3A//cosman246.com/jargon.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//web.archive.org/web/20130827121341/http%3a//cosman246.com/jargon.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.phrack.org" Name="link" DestinationURL="http://www.phrack.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.phrack.org" Name="link" DestinationURL="http://www.phrack.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-58" Name="http://www.phrack.org" Source="htss-58" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.phrack.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.phrack.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Name="link" DestinationURL="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Name="link" DestinationURL="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-57" Name="http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf" Source="htss-57" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//gabriellacoleman.org/wp-content/uploads/2012/08/Coleman-hacker-politics-publics.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://sentic.net/" Name="link" DestinationURL="http://sentic.net/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//sentic.net/" Name="link" DestinationURL="http://sentic.net/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-56" Name="http://sentic.net/" Source="htss-56" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://sentic.net/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//sentic.net/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Name="link" DestinationURL="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Name="link" DestinationURL="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-55" Name="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431" Source="htss-55" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Name="link" DestinationURL="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-54" Name="http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html" Source="htss-54" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.kdnuggets.com/2011/10/big-data-mining-fairness-privacy.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.secrecyfilm.com/about.html" Name="link" DestinationURL="http://www.secrecyfilm.com/about.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.secrecyfilm.com/about.html" Name="link" DestinationURL="http://www.secrecyfilm.com/about.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-53" Name="http://www.secrecyfilm.com/about.html" Source="htss-53" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.secrecyfilm.com/about.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.secrecyfilm.com/about.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Name="link" DestinationURL="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Name="link" DestinationURL="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-52" Name="https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf" Source="htss-52" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.fas.harvard.edu/~hsdept/bios/docs/Removing%20Knowledge.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Name="link" DestinationURL="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Name="link" DestinationURL="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-51" Name="http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf" Source="htss-51" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf" Name="link" DestinationURL="http://www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf" Name="link" DestinationURL="http://www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-50" Name="http://www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf" Source="htss-50" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.emc.com/collateral/about/news/idc-emc-digital-universe-2011-infographic.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-49" Name="http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/" Source="htss-49" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/the-principle-of-notworking-geert-lovink/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Name="link" DestinationURL="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Name="link" DestinationURL="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-48" Name="http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind" Source="htss-48" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.greentechmedia.com/articles/read/peter-thiel-doesnt-like-cleantech-mankind</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nationalreview.com/article/278758/end-future-peter-thiel" Name="link" DestinationURL="http://www.nationalreview.com/article/278758/end-future-peter-thiel" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nationalreview.com/article/278758/end-future-peter-thiel" Name="link" DestinationURL="http://www.nationalreview.com/article/278758/end-future-peter-thiel" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-47" Name="http://www.nationalreview.com/article/278758/end-future-peter-thiel" Source="htss-47" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.nationalreview.com/article/278758/end-future-peter-thiel</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.nationalreview.com/article/278758/end-future-peter-thiel</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Name="link" DestinationURL="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Name="link" DestinationURL="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-46" Name="http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/" Source="htss-46" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://singularityu.org" Name="link" DestinationURL="http://singularityu.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//singularityu.org" Name="link" DestinationURL="http://singularityu.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-45" Name="http://singularityu.org" Source="htss-45" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://singularityu.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//singularityu.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://seasteading.org/" Name="link" DestinationURL="http://seasteading.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//seasteading.org/" Name="link" DestinationURL="http://seasteading.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-44" Name="http://seasteading.org/" Source="htss-44" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://seasteading.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//seasteading.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://halcyonmolecular.com" Name="link" DestinationURL="http://halcyonmolecular.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//halcyonmolecular.com" Name="link" DestinationURL="http://halcyonmolecular.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-43" Name="http://halcyonmolecular.com" Source="htss-43" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://halcyonmolecular.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//halcyonmolecular.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.geni.com" Name="link" DestinationURL="http://www.geni.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.geni.com" Name="link" DestinationURL="http://www.geni.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-42" Name="http://www.geni.com" Source="htss-42" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.geni.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.geni.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.palantir.com/" Name="link" DestinationURL="https://www.palantir.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.palantir.com/" Name="link" DestinationURL="https://www.palantir.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-41" Name="https://www.palantir.com/" Source="htss-41" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.palantir.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.palantir.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" Name="link" DestinationURL="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theregister.co.uk/2010/03/10/cryptome_paypal/" Name="link" DestinationURL="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-40" Name="http://www.theregister.co.uk/2010/03/10/cryptome_paypal/" Source="htss-40" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theregister.co.uk/2010/03/10/cryptome_paypal/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theregister.co.uk/2010/03/10/cryptome_paypal/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fortune.com/2007/11/13/paypal-mafia/" Name="link" DestinationURL="http://fortune.com/2007/11/13/paypal-mafia/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//fortune.com/2007/11/13/paypal-mafia/" Name="link" DestinationURL="http://fortune.com/2007/11/13/paypal-mafia/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-39" Name="http://fortune.com/2007/11/13/paypal-mafia/" Source="htss-39" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://fortune.com/2007/11/13/paypal-mafia/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//fortune.com/2007/11/13/paypal-mafia/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.hoover.org/research/optimistic-thought-experiment" Name="link" DestinationURL="http://www.hoover.org/research/optimistic-thought-experiment" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.hoover.org/research/optimistic-thought-experiment" Name="link" DestinationURL="http://www.hoover.org/research/optimistic-thought-experiment" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-38" Name="http://www.hoover.org/research/optimistic-thought-experiment" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.hoover.org/research/optimistic-thought-experiment</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.hoover.org/research/optimistic-thought-experiment</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Name="link" DestinationURL="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Name="link" DestinationURL="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-37" Name="http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cato-unbound.org/" Name="link" DestinationURL="http://www.cato-unbound.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cato-unbound.org/" Name="link" DestinationURL="http://www.cato-unbound.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-36" Name="http://www.cato-unbound.org/" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cato-unbound.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cato-unbound.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/profile/peter-thiel" Name="link" DestinationURL="http://www.forbes.com/profile/peter-thiel" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.forbes.com/profile/peter-thiel" Name="link" DestinationURL="http://www.forbes.com/profile/peter-thiel" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-35" Name="http://www.forbes.com/profile/peter-thiel" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/profile/peter-thiel</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.forbes.com/profile/peter-thiel</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.theguardian.com/technology/2008/jan/14/facebook" Name="link" DestinationURL="http://www.theguardian.com/technology/2008/jan/14/facebook" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.theguardian.com/technology/2008/jan/14/facebook" Name="link" DestinationURL="http://www.theguardian.com/technology/2008/jan/14/facebook" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-34" Name="http://www.theguardian.com/technology/2008/jan/14/facebook" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.theguardian.com/technology/2008/jan/14/facebook</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.theguardian.com/technology/2008/jan/14/facebook</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/" Name="link" DestinationURL="https://cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/" Name="link" DestinationURL="https://cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-33" Name="https://cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//cabalamat.wordpress.com/2010/02/16/the-pirate-party-is-more-libertarian-than-the-libertarian-party/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mises.org" Name="link" DestinationURL="http://mises.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//mises.org" Name="link" DestinationURL="http://mises.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-32" Name="http://mises.org" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://mises.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//mises.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cato.org" Name="link" DestinationURL="http://www.cato.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cato.org" Name="link" DestinationURL="http://www.cato.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-31" Name="http://www.cato.org" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cato.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cato.org</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.lp.org/" Name="link" DestinationURL="http://www.lp.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.lp.org/" Name="link" DestinationURL="http://www.lp.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-30" Name="http://www.lp.org/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.lp.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.lp.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://mises.org/rothbard/praxeology.pdf" Name="link" DestinationURL="https://mises.org/rothbard/praxeology.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//mises.org/rothbard/praxeology.pdf" Name="link" DestinationURL="https://mises.org/rothbard/praxeology.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-29" Name="https://mises.org/rothbard/praxeology.pdf" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://mises.org/rothbard/praxeology.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//mises.org/rothbard/praxeology.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://archive.lewrockwell.com/rothbard/rothbard103.html" Name="link" DestinationURL="http://archive.lewrockwell.com/rothbard/rothbard103.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//archive.lewrockwell.com/rothbard/rothbard103.html" Name="link" DestinationURL="http://archive.lewrockwell.com/rothbard/rothbard103.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-28" Name="http://archive.lewrockwell.com/rothbard/rothbard103.html" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://archive.lewrockwell.com/rothbard/rothbard103.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//archive.lewrockwell.com/rothbard/rothbard103.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ozarkia.net/bill/anarchism/faq.html" Name="link" DestinationURL="http://www.ozarkia.net/bill/anarchism/faq.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ozarkia.net/bill/anarchism/faq.html" Name="link" DestinationURL="http://www.ozarkia.net/bill/anarchism/faq.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-27" Name="http://www.ozarkia.net/bill/anarchism/faq.html" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ozarkia.net/bill/anarchism/faq.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ozarkia.net/bill/anarchism/faq.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Name="link" DestinationURL="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Name="link" DestinationURL="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-26" Name="http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//psychcentral.com/blog/archives/2011/04/14/fomo-addiction-the-fear-of-missing-out/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Name="link" DestinationURL="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Name="link" DestinationURL="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-25" Name="http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/2011/06/spycloud-intel-agencies-look-to-keep-secrets-in-the-ether/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.geekwire.com/2011/zyngas-culture-rotten-core/" Name="link" DestinationURL="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.geekwire.com/2011/zyngas-culture-rotten-core/" Name="link" DestinationURL="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-24" Name="http://www.geekwire.com/2011/zyngas-culture-rotten-core/" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.geekwire.com/2011/zyngas-culture-rotten-core/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.geekwire.com/2011/zyngas-culture-rotten-core/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Name="link" DestinationURL="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Name="link" DestinationURL="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-23" Name="http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//knowledge.wharton.upenn.edu/article/the-goldman-sachs-facebook-deal-is-this-business-as-usual/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Name="link" DestinationURL="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Name="link" DestinationURL="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-22" Name="http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//online.wsj.com/article/SB10001424052748703954004576090440048416766.html#articleTabs%3Darticle</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Name="link" DestinationURL="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Name="link" DestinationURL="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-21" Name="http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ft.com/cms/s/0/e0dad322-173c-11e0-badd-00144feabdc0.html#axzz1KzW89fTA</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Name="link" DestinationURL="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Name="link" DestinationURL="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-20" Name="http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//dealbook.nytimes.com/2011/01/03/why-Facebook-is-such-an-important-friend-for-goldman-sachs/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Name="link" DestinationURL="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Name="link" DestinationURL="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-19" Name="http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//lersse-dl.ece.ubc.ca/record/264/files/ACSAC_2011.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/" Name="link" DestinationURL="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//addons.mozilla.org/en-US/firefox/addon/betterprivacy/" Name="link" DestinationURL="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-18" Name="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//addons.mozilla.org/en-US/firefox/addon/betterprivacy/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/" Name="link" DestinationURL="http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/" Name="link" DestinationURL="http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/epicenter/2009/08/you-deleted-your-cookies-think-again/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Name="link" DestinationURL="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Name="link" DestinationURL="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-16" Name="http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.computer.org/csdl/proceedings/sp/2009/3633/00/3633a173-abs.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Name="link" DestinationURL="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.zephoria.org/thoughts/archives/2010/05/14/Facebook-and-radical-transparency-a-rant.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://mattmckeon.com/facebook-privacy/" Name="link" DestinationURL="http://mattmckeon.com/facebook-privacy/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//mattmckeon.com/facebook-privacy/" Name="link" DestinationURL="http://mattmckeon.com/facebook-privacy/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://mattmckeon.com/facebook-privacy/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://mattmckeon.com/facebook-privacy/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//mattmckeon.com/facebook-privacy/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html" Name="link" DestinationURL="http://www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html" Name="link" DestinationURL="http://www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.repubblica.it/2008/08/sezioni/cronaca/suicida/suicida/suicida.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zephoria.org/" Name="link" DestinationURL="http://www.zephoria.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.zephoria.org/" Name="link" DestinationURL="http://www.zephoria.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://www.zephoria.org/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.zephoria.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.zephoria.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://donttrack.us/" Name="link" DestinationURL="http://donttrack.us/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//donttrack.us/" Name="link" DestinationURL="http://donttrack.us/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://donttrack.us/" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://donttrack.us/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//donttrack.us/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://edge.org/3rd_culture/foreman05/foreman05_index.html" Name="link" DestinationURL="http://edge.org/3rd_culture/foreman05/foreman05_index.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//edge.org/3rd_culture/foreman05/foreman05_index.html" Name="link" DestinationURL="http://edge.org/3rd_culture/foreman05/foreman05_index.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://edge.org/3rd_culture/foreman05/foreman05_index.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://edge.org/3rd_culture/foreman05/foreman05_index.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//edge.org/3rd_culture/foreman05/foreman05_index.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.facebook.com/help/245058342280723" Name="link" DestinationURL="https://www.facebook.com/help/245058342280723" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.facebook.com/help/245058342280723" Name="link" DestinationURL="https://www.facebook.com/help/245058342280723" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="https://www.facebook.com/help/245058342280723" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.facebook.com/help/245058342280723</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.facebook.com/help/245058342280723</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Name="link" DestinationURL="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Name="link" DestinationURL="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.technologyreview.com/news/418766/the-changing-nature-of-privacy-on-facebook/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.facebook.com/help/search/?query=real%20names" Name="link" DestinationURL="https://www.facebook.com/help/search/?query=real%20names" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.facebook.com/help/search/?query=real%20names" Name="link" DestinationURL="https://www.facebook.com/help/search/?query=real%20names" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="https://www.facebook.com/help/search/?query=real%20names" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.facebook.com/help/search/?query=real%20names</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.facebook.com/help/search/?query=real%20names</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Name="link" DestinationURL="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Name="link" DestinationURL="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Name="link" DestinationURL="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Name="link" DestinationURL="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//fourteen.fibreculturejournal.org/fcj-096-the-digital-given-10-web-2-0-theses/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Name="link" DestinationURL="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/blog/publication/no-13-the-dark-side-of-google-ippolita/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/theoryondemand" Name="link" DestinationURL="http://networkcultures.org/theoryondemand" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://networkcultures.org/theoryondemand" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/publications" Name="link" DestinationURL="http://networkcultures.org/publications" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://networkcultures.org/publications" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/theoryondemand</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/publications</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.networkcultures.org" Name="link" DestinationURL="http://www.networkcultures.org" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.networkcultures.org" Name="link" DestinationURL="http://www.networkcultures.org" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.networkcultures.org" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.networkcultures.org</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.networkcultures.org</Destination>
     </Properties>
   </Hyperlink>
 </Document>
