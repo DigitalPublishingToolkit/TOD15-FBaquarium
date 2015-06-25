@@ -32,3 +32,4 @@ while i < len(lines):
 # strip last character, a superfluous newline
 text = ''.join(lines)[:-1]
 print text
+
