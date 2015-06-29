@@ -44,10 +44,10 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 <br><br/>
 <br><br/>
 <br><br/>
-<span style="font-family: OpenSans-CondLight; font-size: 13pt; text align: center;">
+<span style="font-family: OpenSans-Light; font-size: 13pt; text align: center;">
 'I started building an aquarium. It became larger and larger, until I managed to build a saltwater aquarium. Then I stopped and thought, either I walk out, or I go into the aquarium myself.'<br/> 
 - Malcolm<br><br/></span>
-<span style="font-family: OpenSans-CondLight; font-size: 13pt; text align: center;">
+<span style="font-family: OpenSans-Light; font-size: 13pt; text align: center;">
 'Hit a straight lick with a crooked stick.'<br/> 
 - Jamaican proverb</span> 
 <p style="page-break-after:always;"></p>

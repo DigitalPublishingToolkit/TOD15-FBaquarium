@@ -81,12 +81,10 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
-		--epub-embed-font=../lib/ArchivoBlack-Regular.otf \
-		--epub-embed-font=../lib/Arnhem-BoldItalic.otf \
-		--epub-embed-font=../lib/Arnhem-Bold.otf \
-		--epub-embed-font=../lib/Arnhem-NormalItalic.otf \
-		--epub-embed-font=../lib/Arnhem-Normal.otf \
-		--epub-embed-font=../lib/Raleway-Regular.otf \
+		--epub-embed-font=../lib/OpenSans-Light.otf \
+		--epub-embed-font=../lib/OpenSans-LightItalic.otf \
+		--epub-embed-font=../lib/OpenSans-Semibold.otf \
+		--epub-embed-font=../lib/OpenSans-SemiboldItalic.otf \
 		-o ../book.epub \
 		book.md && \
 		cd .. && \
