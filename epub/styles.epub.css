@@ -2,13 +2,14 @@ body{
     font-size:12pt;
     background: white;
     color: black;
-    font-family: sans-serif;	
+    font-family: OpenSans-Light;	
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: helvetica;
+    font-family: OpenSans-Semibold;
     font-weight: 300;
+    color: #40C944;
     hyphens: none !important;
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
