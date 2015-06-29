@@ -1,19 +1,19 @@
 <dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">TOD15 IN THE FACEBOOK AQUARIUM</dc:title>
+<dc:title id="epub-title-1">In the Facebook Aquarium</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2015-02</dc:date>
+<dc:date id="epub-date">2015-06</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">IPPOITA</dc:creator>
+<dc:creator id="epub-creator-0">Ippolita</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">EDITOR'S NAME</dc:contributor>
+<dc:contributor id="epub-contributor-1">Matt Beros</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-5"></dc:contributor>
 <meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
 <dc:subject>TAGS, SEPARATED BY, COMAS</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<dc:description>In their new work the research collective Ippolita provides a critical investigation of the inner workings of Facebook as a model for all commercial social networks. Facebook is an extraordinary platform that can generate large profit from the daily activities of its users. Facebook may appear to be a form of free entertainment and self-promotion but in reality its users are working for the development of a new type of market where they trade relationships. By critically examining the theories of Californian right-libertarians, Ippolita shows the thread connecting Facebook to the European Pirate Parties, WikiLeaks and beyond.</dc:description>
 
 
 

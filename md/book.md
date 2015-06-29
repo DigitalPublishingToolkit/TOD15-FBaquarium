@@ -53,7 +53,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 1.08 Privacy No More: The Ideology of Radical Transparency<br/>
 1.09 Free Markets and Financial Bubbles<br/>
 1.10 Free Choice and the Opt-out Culture<br/>
-1.11 Substitutes for Presence and Emotional Solace<br?<br/>
+1.11 Substitutes for Presence and Emotional Solace<br><br/>
 **PART II: The Libertarian World Domination Project: Hacking, Social Network(s), Activism and Institutional Politics**<br><br/>
 2.01 Online Ideologies: the Enlightenment of Google and the Libertarianism of Facebook<br/>
 2.02 Libertarianism or a Short History of Capitalism on Steroids<br/>
