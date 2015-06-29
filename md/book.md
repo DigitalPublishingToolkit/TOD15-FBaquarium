@@ -74,15 +74,15 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 **Thanks**<br><br/>
 
 
-<br><br/>
+<p style="page-break-after:always;">
 
 > I started building an aquarium. It became larger and larger, until I managed to build a saltwater aquarium. Then I stopped and thought, 'either I walk out, or I go into the aquarium myself'.<br/> 
-Malcolm 
+Malcolm<br><br/>
 
->Hit a straight lick with a crooked stick<br/> 
-> Jamaican proverb 
+> Hit a straight lick with a crooked stick<br/> 
+>Jamaican proverb 
 
-<br><br/>
+</p>
 
 
 # In the Facebook Aquarium - Pre-Afterword
