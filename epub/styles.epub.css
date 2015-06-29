@@ -26,9 +26,11 @@ div#cover-image{
 }
 
 a.footnoteRef{
+    font-family: OpenSans-Light;
+    font-size: 10pt;
     vertical-align: super;
     line-height: normal;
-    font-size: 0.5em;
+    
 }
 
 img {
