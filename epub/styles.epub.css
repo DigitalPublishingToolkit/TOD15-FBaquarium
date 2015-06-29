@@ -39,3 +39,11 @@ img {
     width: auto;
     height: auto;
 }
+
+p #bib{
+
+    font-family: OpenSans-Light;
+    font-size: 10pt;
+    vertical-align: super;
+    line-height: normal 
+}
