@@ -53,37 +53,37 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 
 # Contents
-**In the Facebook Aquarium: Pre-Afterword**<br><br/>
-**Part I: I Have a Thousand Friends, But I Know No One**<br><br/>
-<a href="ch003.xhtml">1.01 Default Power, Or Please Follow the Instructions</a>
-<a href="ch004.xhtml">1.02 In the Beginning was Google</a>
-1.03 The Era of Democratic Distraction-Attention<br/>
-1.04 Social Dynamics: Voyeurism and Homophilia<br/>
-1.05 Psychological Dynamics: Narcissism, Exhibitionism, and Emotional Porn<br/>
-1.06 The Performance Society<br/>
-1.07 Public and Private, Ontology and Identity<br/>
-1.08 Privacy No More: The Ideology of Radical Transparency<br/>
-1.09 Free Markets and Financial Bubbles<br/>
-1.10 Free Choice and the Opt-out Culture<br/>
-1.11 Substitutes for Presence and Emotional Solace<br><br/>
-**PART II: The Libertarian World Domination Project: Hacking, Social Network(s), Activism and Institutional Politics**<br><br/>
-2.01 Online Ideologies: the Enlightenment of Google and the Libertarianism of Facebook<br/>
-2.02 Libertarianism or a Short History of Capitalism on Steroids<br/>
-2.03 Technological Darwinism from the Paypal Mafia to Facebook: the Irresistible Rise of Anarcho-Capitalism<br/>
-2.04 Social networks Through the Anarcho-Capitalist Lens - or the Management of Sociality in the Era of Big Data<br/>
-2.05 The Hacker Spirit and the Disease of Anarcho-Capitalism<br/>
-2.06 Pirate Parties, or Technology in Politics<br/>
-2.07 The Wikileaks Affair:  A Futile Challenge or Sensible Defiance?<br/>
-2.08 Anonymous, or Out of the Box Activism<br><br/>
-**PART III: The Freedoms of the Net**<br><br/>
-3.01 Online Revolution and Couch Activism: Between Myth and Reality<br/>
-3.02 Orwell, Huxley, and the Sino-American Model<br/>
-3.03 On Anthropotechnics: Reaction and Survival<br/>
-3.04 Beyond the Net of Empty Nodes: Autonomous Individuals and Organized Networks<br/>
-3.05 Mass Participation<br/>
-3.06 Beyond Technophobia: Let's Build Convivial Technologies Together!<br><br/>
-**References**<br><br/>
-**Thanks**<br><br/>
+<a href="ch003.xhtml">**In the Facebook Aquarium: Pre-Afterword**</a><br><br/>
+<a href="ch005.xhtml">**Part I: I Have a Thousand Friends, But I Know No One**</a><br><br/>
+<a href="ch005.xhtml">1.01 Default Power, Or Please Follow the Instructions</a><br/>
+<a href="ch006.xhtml">1.02 In the Beginning was Google</a><br/>
+<a href ="ch007.xhtml">1.03 The Era of Democratic Distraction-Attention</a><br/>
+<a href ="ch008.xhtml">1.04 Social Dynamics: Voyeurism and Homophilia</a><br/>
+<a href ="ch009.xhtml">1.05 Psychological Dynamics: Narcissism, Exhibitionism, and Emotional Porn</a><br/>
+<a href ="ch010.xhtml">1.06 The Performance Society</a><br/>
+<a href ="ch011.xhtml">1.07 Public and Private, Ontology and Identity</a><br/>
+<a href ="ch012.xhtml">1.08 Privacy No More: The Ideology of Radical Transparency<a/><br/>
+<a href ="ch013.xhtml">1.09 Free Markets and Financial Bubbles</a><br/>
+<a href="ch014.xhtml">1.10 Free Choice and the Opt-out Culture</a><br/>
+<a href="ch015.xhtml">1.11 Substitutes for Presence and Emotional Solace</a><br><br/>
+<a href="ch016.xhtml">**PART II: The Libertarian World Domination Project: Hacking, Social Network(s), Activism and Institutional Politics**</a><br><br/>
+<a href="ch017.xhtml">2.01 Online Ideologies: the Enlightenment of Google and the Libertarianism of Facebook</a><br/>
+<a href="ch018.xhtml">2.02 Libertarianism or a Short History of Capitalism on Steroids</a><br/>
+<a href="ch019.xhtml">2.03 Technological Darwinism from the Paypal Mafia to Facebook: the Irresistible Rise of Anarcho-Capitalism</a><br/>
+<a href="ch020.xhtml">2.04 Social networks Through the Anarcho-Capitalist Lens - or the Management of Sociality in the Era of Big Data</a><br/>
+<a href="ch021.xhtml">2.05 The Hacker Spirit and the Disease of Anarcho-Capitalism</a><br/>
+<a href="ch022.xhtml">2.06 Pirate Parties, or Technology in Politics</a><br/>
+<a href="ch023.xhtml">2.07 The Wikileaks Affair:  A Futile Challenge or Sensible Defiance?</a><br/>
+<a href="ch024.xhtml">2.08 Anonymous, or Out of the Box Activism</a><br><br/>
+<a href="ch024.xhtml">**PART III: The Freedoms of the Net**</a><br><br/>
+<a href="ch026.xhtml">3.01 Online Revolution and Couch Activism: Between Myth and Reality</a><br/>
+<a href="ch027.xhtml">3.02 Orwell, Huxley, and the Sino-American Model</a><br/>
+<a href="ch028.xhtml">3.03 On Anthropotechnics: Reaction and Survival</a><br/>
+<a href="ch029.xhtml">3.04 Beyond the Net of Empty Nodes: Autonomous Individuals and Organized Networks</a><br/>
+<a href="ch030.xhtml">3.05 Mass Participation</a><br/>
+<a href="ch031.xhtml">3.06 Beyond Technophobia: Let's Build Convivial Technologies Together!</a><br><br/>
+<a href="ch032.xhtml">**References**</a><br><br/>
+<a href="ch033.xhtml">**Thanks**</a><br><br/>
 
 
 # In the Facebook Aquarium - Pre-Afterword
