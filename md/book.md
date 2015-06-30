@@ -1,3 +1,11 @@
+# In the Facebook Aquarium: The Resistable Rise of Anarcho-Capitalism 
+<br><br/> 
+In their new work research collective Ippolita provides a critical investigation of the inner workings of Facebook as a model for all commercial social networks. Facebook is an extraordinary platform that can generate large profit from the daily activities of its users. Facebook may appear to be a form of free entertainment and self-promotion but in reality its users are working for the development of a new type of market where they trade relationships. As users of social media we have willingly submitted to a vast social, economic and cultural experiment. <br><br/> 
+By critically examining the theories of Californian right-libertarians, Ippolita show the thread con- necting Facebook to the European Pirate Parties, WikiLeaks and beyond. An important task today is to reverse the logic of radical transparency and apply it to the technologies we use on a daily basis. The algorithms used for online advertising by the new masters of the digital world – Facebook, Apple, Google and Amazon – are the same as those used by despotic governments for personalized repression. Ippolita argues we should not give in to the logic of conspiracy or paranoia instead we must seek to develop new ways of autonomous living in our networked society.<br><br/> 
+**Ippolita** are an interdisciplinary research group active since 2005. They conduct wide-ranging re- search on technology and its social effects. Their published works include Open non è Free (2005), The Dark Side of Google (2013) and La Rete è libera e democratica. FALSO! (2014). The collective also run workshops on digital self-defense for girls, children, academics, affinity groups, computer geeks and curious people. See: <http://ippolita.net>
+<br><br/> 
+First published in Italian, 2012.<br/>
+English edition revised and updated, June 2015.
 
 # Colophon
 
